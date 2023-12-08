@@ -224,7 +224,7 @@ hr {
 
 .tm-about {
   background: url('myphoto.jpg') no-repeat;
-  background-size: 450px;
+  background-size: 100px;
   background-position:left 150px top;
   padding: 50px;
 }
